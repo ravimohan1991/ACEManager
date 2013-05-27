@@ -1,0 +1,14 @@
+[Workspace Info]
+IsRelative=1
+RelativePath=${GAMEDIR}
+Comment=
+GameType=6
+[WOTgreal Workspace]
+File0=ACEManager14\Classes\ACEM_About.uc
+File1=ACEManager14\Classes\ACEM_ConfigACE.uc
+File2=ACEManager14\Classes\ACEM_PlayerListBox.uc
+File3=ACEManager14\Classes\ACEManager_MainWindow.uc
+File4=ACEManager14\Classes\ACEManager_ModMenueWindow.uc
+File5=AT\Classes\AT_MainWindow.uc
+File6=IACEv08c\Classes\IACEActor.uc
+File7=UWindow\Classes\UWindowGrid.uc
