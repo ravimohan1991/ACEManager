@@ -39,7 +39,7 @@ INSTALLATION
 ==================================================================================================
 
 Assumption - I assume that you have compiled my code and have ACEManager(version).u/.int files. Refer Coding and
-Compiling section if you have not compiled it yet.
+Compiling section (in ReadMe.pdf) if you have not compiled it yet.
 
 Server Install:
 ---------------
