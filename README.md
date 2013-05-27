@@ -1,7 +1,7 @@
 ACEManager
 ==========
 
-> [v1.5](#version-15)
+> [v1.5](#version- 15)
 
 ACEManager is an add-on for UT99 to manage Anti Cheat Engine. Besides providing GUI for configuring various client side settings
 and taking ACE snapshots, ACEManager provides powerful interface to ban players using HwID and other hashes.
@@ -181,12 +181,12 @@ CHANGELOG
 - **ADDED**: Importing Nexgen Ban Operators.
 - **IMPROVED**: Little tweaks and adjustments which I dont remember.
 
-### Version 1.3
+### Version 1.3 (Public Beta)
 - **FIXED**: Showing ACE info of banned players.Earlier it used to show only for first player in the banned list.
         ( Mistake was I.Next. It should have been J.Next )
 - **FIXED**: PlayerRealIP and PlayerIP interchanging issue.
  
-### Version 1.2
+### Version 1.2 (Private)
 - **FIXED**: Some accessed none warnings at the start of map.
 - **FIXED**: ACEManager menue not opening in some systems[Testing needed].
 - **ADDED**: About page.
@@ -195,8 +195,7 @@ CHANGELOG
 - **IMPROVED**: ACEInfo is now displayed in readable and desired format.
 - **MODIFICATION**: ACE info is now shown in different colours.
 
-### Version 1.1
-Private
+### Version 1.1 (Private)
 
 - **ADDED**: Banning system
       * Kicking the player using ACE function.
