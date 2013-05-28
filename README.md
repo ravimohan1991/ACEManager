@@ -191,7 +191,7 @@ CHANGELOG
 - **FIXED**: ACEManager menue not opening in some systems[Testing needed].
 - **ADDED**: About page.
 - **ADDED**: More ACE info is now displayed/stored for current/banned players.
-- **ADDED**: bAllowAnyonetoSnap- Utility which allows any player to take snap ( if admin is ok with it ).
+- **ADDED**: bAllowAnyonetoSnap- Utility which allows any player to take snap (if admin is ok with it).
 - **IMPROVED**: ACEInfo is now displayed in readable and desired format.
 - **MODIFICATION**: ACE info is now shown in different colours.
 
