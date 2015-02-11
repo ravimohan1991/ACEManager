@@ -5,8 +5,7 @@ ACEManager
 
 ACEManager is an add-on for Unreal Tournament 99 to manage Anti Cheat Engine. Besides providing GUI for configuring various client side settings
 and taking ACE snapshots, ACEManager provides powerful interface to ban players using HwID and other hashes.
-Through this tool, one can see, all the information obtained by ACE, in-game. Like the true country ( of players behind
-proxy ), Operating System, UT version, HwID's and other related information.
+Through this tool, one can see, all the information obtained by ACE, in-game including the true country (of the players behind proxy), Operating System, UT version, HwID's and other related information.
 
 
 
