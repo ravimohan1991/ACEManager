@@ -1,6 +1,10 @@
 ACEManager
 ==========
 
+OUT OF THE BLUE THOUGHT
+https://unrealadmin.org/forums/showthread.php?t=29004
+
+
 > [v1.5](#version-15)
 
 ACEManager is an add-on for Unreal Tournament 99 to manage Anti Cheat Engine. Besides providing GUI for configuring various client side settings
